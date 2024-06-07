@@ -1,4 +1,4 @@
-#CupcakeParty
+# CupcakeParty
 
 Holds a program that determines how many cupcakes will be left over based on user input
 
